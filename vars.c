@@ -2,7 +2,7 @@
 void main (void)
 {
  float a;
- float b = 3.641;
+ float b = 3.241;
  float c;
  a = 2.897;
  c = a + b;
