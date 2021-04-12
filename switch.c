@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main (void)
+int main (void)
 {
     int a = 5;
     switch (a)
