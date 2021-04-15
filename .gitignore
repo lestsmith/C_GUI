@@ -16,3 +16,4 @@ vars
 voidPointer
 while
 *.pdf
+*.code-workspace
