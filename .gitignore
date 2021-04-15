@@ -19,5 +19,8 @@ strcmo
 stringLib
 strlen
 while
+arguments
+fgets
+scanf
 *.pdf
 *.code-workspace
