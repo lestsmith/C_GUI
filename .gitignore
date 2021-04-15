@@ -17,6 +17,7 @@ voidPointer
 compareStrings
 strcmo
 stringLib
+strlen
 while
 *.pdf
 *.code-workspace
