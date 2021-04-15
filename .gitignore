@@ -14,6 +14,9 @@ String
 switch
 vars
 voidPointer
+compareStrings
+strcmo
+stringLib
 while
 *.pdf
 *.code-workspace

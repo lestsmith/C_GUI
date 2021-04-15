@@ -9,17 +9,17 @@ void main (void)
  dst = str3;
  while (*src != 0)
  {
- *dst = *src;
- src++;
- dst++;
+  *dst = *src;
+  src++;
+  dst++;
  }
  src = str2;
  while (*src != 0)
  {
- *dst = *src;
- src++;
- dst++;
- }
+  *dst = *src;
+  src++;
+  dst++;
+}
  *dst = 0;
  printf ("%s + %s = %s\n", str1, str2, str3);
 }
