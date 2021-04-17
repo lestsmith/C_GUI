@@ -1,0 +1,475 @@
+(A) Extra Data Dave's reports +DataWarehouse due:2021-02-12
+x (A) Null Deadlines for Dave's reports. + Area 26 Not in Manf_deadline  +DataWarehouse due:2021-02-12
+x (D) Grant access to two users on Data warehouse SDP-36359 +SDP due:2021-02-12
+(D) Goods in emails sdp-33174 +SDP due:2021-02-12
+
+(A) Apps-303 File system monitor for Transition UAT - ProgressServer Side - +Transition due:2021-02-28
+
+
+Trillipse writing tablets doubling up - Set up in UAT, asked for testing to be carried out - +Star 
+Apps-251 add to sprint & get completed @Blocked - Waiting for KWS - +DataWarehouse
+Apps-258 add to sprint & get completed @Blocked - Waiting for KWS - +DataWarehouse
+Apps-305 Implement XML File archive system in MES UAT @Blocked +MES 
+Apps-306 Implement XML File archive system in MES Production @Blocked +MES
+
+x (A) 1 to 1 +PersonalDevelopment due:2020-05-12
+x (A) 31967 Int 04 Incident +ITSD due:2020-08-20
+x (A) 32005 Sales input analysis +ITSD due:2020-08-20
+x (A) ADO-4974 Collection Address +Transition due:2020-10-06
+x (A) Add Cell to production status report, re-run and send to Dom +Star due:2020-05-25
+x (A) Address format meeting +Transition due:2020-09-02
+x (A) Answer mail from Antony +Transition due:2020-08-24
+x (A) Any actions on DEV-C04 +D365Release due:2020-11-23
+x (A) Apps-196 +MES due:2020-06-09
+x (A) Apps-196 +Transition due:2020-06-18
+x (A) Apps-237 Build MDS for IncoTerms +Transition due:2020-08-21
+x (A) Apps-243 Null values - error messages +Transition due:2020-09-02
+x (A) Apps-289 More testing due:2020-12-04
+x (A) Apps-289 handle errors / setting of processed flag due:2020-12-03
+x (A) Area Report new columns EXTRA +Star due:2020-08-25
+x (A) BA-1487 SNP pricing +D365 due:2020-12-02
+x (A) Brexit / VAT meeting +D365 due:2020-11-16
+x (A) Brexit meeting +D365 due:2020-12-02
+x (A) Brexit meeting JM, TJ, MN +D365 due:2020-11-12
+x (A) Build & release Hotfix +Release due:2020-11-09
+x (A) Build & release Staging +Release due:2020-11-09
+x (A) Build Integration +Release due:2020-08-20
+x (A) Build Integration +Release due:2020-10-29
+x (A) Build Integration and UAT +Star due:2020-04-30
+x (A) Build Production +Release due:2020-08-31
+x (A) Build Production +Release due:2020-11-09
+x (A) Build Production +Star due:2020-05-11
+x (A) Build UAT +Release due:2020-08-21
+x (A) Build UAT +Release due:2020-10-30
+x (A) Build and release Hotfix +Release due:2020-08-31
+x (A) Build and release Staging +Release due:2020-08-31
+x (A) Build and release hotfix +Star due:2020-05-11
+x (A) Build and release staging +Star due:2020-05-11
+x (A) Catch up +Meeting due:2020-06-09
+x (A) Catch up with MN +OtherMeetings due:2020-05-19
+x (A) Catchup +OtherMeetings due:2020-09-08
+x (A) Check the behaviour of ignore error in the ODBC source (Test in Dev using 2 new records with 1 locked) +DataWarehouse due:2021-01-13
+x (A) Claire @extra +Transition due:2020-10-27
+x (A) Claire, UAT background processor @Extra due:2021-02-10
+x (A) Collections address issue discussion, peer review +Transition due:2020-09-02
+x (A) Comment on ADO tickets +Transition due:2020-08-28
+x (A) Continue notes for DB refresh  +D365 due:2020-11-19
+x (A) Create Star job for the work to be done for Apps-302 +Transition due:2021-02-03
+x (A) Create star job for change to collection address @extra +Transition due:2020-10-05
+x (A) Create ticket re RDP to dev boxes from LCS +Release&DataManagement due:2020-11-16
+x (A) Credit Limit violations report +D365 due:2021-02-10
+x (A) Customer Reference ADO-4871 - Dev Tested -  @New +Transition due:2020-08-26
+x (A) Dan - Change mapping of customer reference +Transition due:2020-09-03
+x (A) Dan - Check Int 04 +Transition due:2020-09-03
+x (A) Dan's email +Transition due:2020-05-04
+x (A) Data for Kirti +Int04 due:2021-01-11
+x (A) Delivery Dates don't match ADO-4889 @DXC EXTRA +Transition due:2020-08-25
+x (A) Deploy Release 41 into UAT +D365 due:2021-01-09  
+x (A) Deploy changes to Int05 -Star and SSIS- to UAT +Transition due:2020-08-31
+x (A) Dom's report +Production due:2020-06-22
+x (A) Dom's report +ProductionStatus due:2020-11-09
+x (A) Dom's report +ProductionStatus due:2020-12-14
+x (A) Dom's report +productionStatus due:2021-01-04
+x (A) Doms report +productionStatus due:2020-09-28
+x (A) Doms' report +productionStatus due:2020-12-21
+x (A) Download LaserNet +LaserNet due:2020-06-24
+x (A) Ebecs Meeting +Transition due:2020-05-22
+x (A) Ebecs meeting +Transition due:2020-04-30
+x (A) Expand MDS Responsibilites table +Transition due:2020-07-17
+x (A) Extra error handling in i5 & i6 +Transition due:2020-09-10
+x (A) FTP process - Meeting  TJ/MN - +Transition due:2020-09-10
+x (A) File Transfer +Transition due:2020-09-11
+x (A) Finance meeting +Finance due:2020-11-27
+x (A) Gareth postman setup +Transition due:2020-09-03
+x (A) Get latest version for ADO-4888 on Dev-C03 +Transition due:2020-09-23
+x (A) ITSD for Kath +ITSD due:2020-05-12
+x (A) ITSD-32723 +ITSD due:2020-05-15
+x (A) ITSD-33389 +ITSD due:2020-06-18
+x (A) ITSD-33408 picking +ITSD due:2020-06-18
+x (A) ITSD-33666 +ITSD due:2020-07-03
+x (A) ITSD-33821 SSIS due:2020-07-14
+x (A) ITSD-33906 +ITSD due:2020-07-13
+x (A) ITSDs +ITSD due:2020-06-24
+x (A) Implement Apps-273 into SenMESTestSQLAppserver +MES due:2021-01-06
+x (A) IncoTerms not populating ADO-4882 - Waiting for MDS - @New +Transition due:2020-08-27
+x (A) Install Type - only small and standard ADO-4887 +Transition due:2020-08-25
+x (A) Int04 errors +Finance due:2020-11-20
+x (A) Int04 ticket +Incidents due:2020-09-01
+x (A) Interface 4 issues Saturday & today - D365 Downtime - +Int04 due:2021-01-25
+x (A) Invoice Mapping Issue +Int04 due:2020-11-23
+x (A) Invoicing an order cancels it ADO-4881 @DXC EXTRA +Transition due:2020-08-25
+x (A) Jame's Stokes request +Star due:2021-01-25
+x (A) Just show set up cell in production status report +Production due:2020-05-27
+x (A) Label print issue +Star due:2020-12-21
+x (A) Look at peer review comments +Star due:2020-05-26
+x (A) MDS C00000638 to C00002717 due:2021-01-19
+x (A) MES / SQL Meeting +MES due:2020-07-01
+x (A) MES Meeting +MES due:2020-05-27
+x (A) MES Meeting +MES due:2020-06-10
+x (A) MES Meeting +MES due:2020-06-17
+x (A) MES Meeting +Mes due:2020-06-03
+x (A) MES Meeting with Tony +MES due:2020-05-20
+x (A) MES meeting +MES due:2020-05-06
+x (A) MES meeting +MES due:2020-05-13
+x (A) MES meeting +MES due:2020-06-04
+x (A) MES meeting +MES due:2020-06-19
+x (A) MES meeting Tony +MES due:2020-05-22
+x (A) Meeting +Transition due:2020-05-12
+x (A) Meeting re Defect 5030 +D365 due:2020-11-11
+x (A) Meeting with Dom +Transition due:2020-05-14
+x (A) Meeting with Finance +Transition due:2020-06-11
+x (A) Meeting with GT,MN,TJ Dev03 +Transition due:2020-05-15
+x (A) Meeting with Joe Ridley +D365Release due:2020-11-23
+x (A) Meeting with Mark & Tony +Transition due:2020-05-12
+x (A) Meeting with Tony +Transition due:2020-05-26
+x (A) Move UAT to Sen-test-C01 +D365 due:2020-11-17
+x (A) Need to get Dev-C03 working again - Contact Alan due:2021-01-05
+x (A) ODBC meeting +MES due:2020-05-28
+x (A) ODBC meeting with GT +MES due:2020-07-16
+x (A) Peer review Star-3221 for GT +Star due:2020-06-08
+x (A) Peer review for Apps-273 - couple of changes - +MES due:2021-01-06
+x (A) Peer review for GT @Extras +Star due:2020-07-14
+x (A) Peer review for Gareth +Star due:2020-12-17
+x (A) Peer review for Gareth - check ok - +Star due:2020-11-23
+x (A) Peer review for Gareth due:2020-11-26
+x (A) Peer review for ITSD TJ +ITSD due:2020-06-30
+x (A) Peer review for JM +D365 due:2020-05-15
+x (A) Peer review for JM due:2020-06-24
+x (A) Peer review for Jon +Extras due:2020-07-03
+x (A) Peer review for Star-3318 Tony +MES due:2020-09-30
+x (A) Peer review for Tony +ITSD due:2020-06-22
+x (A) Peer review for Tony +Star due:2020-11-18
+x (A) Peer review for Tony +Transition due:2020-05-28
+x (A) Peer review for Tony +Transition due:2021-02-05
+x (A) Peer review for Tony on DB change +Star due:2020-11-16
+x (A) Peer review for Vic +MES due:2020-05-15
+x (A) Peer review for Vic +Star due:2020-11-20
+x (A) Permissions for Json lookup +Transition @MarkNaylor due:2020-06-18
+x (A) Pluralsight +PersonalDevelopment due:2020-05-12
+x (A) Production Capacity Report +DW due:2021-02-10
+x (A) Production Status for DOM +Production due:2020-06-15
+x (A) Push Invoice through +Int04 due:2020-12-07
+x (A) Query from Emily @extra +Ts&Cs due:2020-10-27
+x (A) REST https://sen-dev-03devaos.sandbox.ax.dynamics.com/data/Customers?$filter=CustomerAccount%20eq%20%27C00000085%27 can we use for validation?
+x (A) Refresh dev-c04 from UAT +D365 due:2020-11-13
+x (A) Refresh on Production Status report +DataWarehouse due:2021-01-05 
+x (A) Release KB4586068 +D365 due:2020-11-12
+x (A) Release Management training +D365 due:2020-11-06
+x (A) Release Production +Release due:2020-09-01
+x (A) Release Production +Star due:2020-05-12
+x (A) Release UAT +Release due:2020-08-22
+x (A) Release changes for ITSD-33276 +Production xD xH xS xI xU xP due:2020-06-17
+x (A) Release changes for Int04 to VM002 @Production +Int04 due:2020-12-16
+x (A) Release changes for Int04 to VM003 +Int04 due:2020-12-08
+x (A) Release production & clone BA tickets +Release due:2020-11-11
+x (A) Release work +D365 due:2020-11-20
+x (A) Release!
+x (A) Reply to Kirti +Int04 due:2021-02-08
+x (A) Report for DOM +Production due:2020-05-15
+x (A) Report for DOM +Production due:2020-06-29
+x (A) Request for Info from Dan @extra due:2020-09-04
+x (A) Request from Caitlan re PO @Extra +Star due:2020-11-26
+x (A) Request from Dan for data +D365 due:2020-11-17
+x (A) Request from Dan for transition change +Transition due:2020-11-30
+x (A) Request from Finance re Invoices to PreProd +Finance due:2020-11-25
+x (A) Resolve SDP ticket 34591 +Int04 due:2020-12-15
+x (A) Resolve SDP ticket 34712 +Int04 due:2020-12-14
+x (A) Resolve SDP ticket 34782 +Int04 due:2020-12-15
+x (A) Resolve SDP ticket 34788 +Int04 due:2020-12-14
+x (A) Restart Dev +Dev due:2020-11-30
+x (A) Restart Int05 +Int05 due:2020-12-07
+x (A) Rework on Star-3234 +Transition due:2020-06-18
+x (A) Run BrexitVATCodes.p once UAT built +Brexit due:2020-11-27
+x (A) Run Production Status Report +productionStatus due:2020-08-24
+x (A) Run Production Status report for Dom +Star due:2020-06-08
+x (A) Run through changes to Int05 with Tony +Transition due:2020-09-01
+x (A) SDP 34669 +Int04 due:2020-12-17
+x (A) SDP 34971 +Star due:2020-12-16
+x (A) SDP 34988 (Change Prod/Del Week) +star due:2020-12-21
+x (A) SDP 35004 Invoice Missing D365 +Int04 due:2021-01-14
+x (A) SDP 35043 Invoice missing +Int04 due:2020-12-18
+x (A) SDP 35054 BOM Recalc +Star due:2020-12-21
+x (A) SDP 35068 +Star @Extra due:2020-12-18
+x (A) SDP ticket 3541 +Int04 due:2021-01-12
+x (A) SDP ticket Deleted fabric range @Extra +Star due:2020-12-02
+x (A) SDP-31136 - create BA task +D365 due:2021-02-05
+x (A) SDP-33281 SSIS Interface 4 Validation Errors For Production @Extra +Int04 due:2020-10-29
+x (A) SDP-33971 MDS Mapping - Not been shared, but ... - +Int04 due:2021-02-04
+x (A) SDP-34178 @Extra due:2020-11-20
+x (A) SDP-34720 Brexit invoice headers @Extra due:2020-12-04
+x (A) SIT test meeting re 4891 +Transition due:2020-08-24
+x (A) SO 1056177 for Claire +Int05 due:2020-12-11
+x (A) SQL ODBC meeting +Transition due:2020-07-01
+x (A) Sales Order Numbers +Transition due:2020-06-30
+x (A) Send data to dev-c04 +Transition due:2020-06-25
+x (A) Session with DXC op +Int04 due:2021-01-07
+x (A) Set up Chris Wright on DW +DataWarehouse due:2021-01-07
+x (A) Star job +Star due:2020-11-16
+x (A) Star job for Brexit - report 
+x (A) Star work - Star-3234 +MES due:2020-06-17
+x (A) Star-3239 +Transition  due:2020-06-29
+x (A) Star-3252 +MES *Need 2nd peer review* due:2020-07-13
+x (A) Star-3264 +Migration due:2020-07-23
+x (A) Star-3264 Test for Vic +DataMigration due:2020-07-22
+x (A) Star-3265 +Transition *needs another peer review* started due:2020-07-14 
+x (A) Star-3271 +DataWarehouse due:2020-07-24
+x (A) Star-3279 +Star due:2020-08-21
+x (A) Star-3288 Customer  Reference & IncoTerms +Transition due:2020-08-21
+x (A) Star-3310 Address format ADO-4974 due:2020-09-21
+x (A) Star-3387 - release - +Star due:2020-12-10
+x (A) Star-3406 - make cURL code callable on appserver +Transition due:2021-02-04
+x (A) Talk to JM re BA-1406 +D365 due:2020-06-17
+x (A) Talk to Jon re +Migration due:2020-05-11
+x (A) Talking to Kirti re DXC ticket due:2021-01-14
+x (A) Test changes for ADO-4888 +Transition due:2020-09-25
+x (A) Ticket re missing invoices - create apps job to fix - +Finance due:2020-12-02
+x (A) Tony re MES testing +MES due:2021-01-07
+x (A) Tony re applying new work types to existing OLWT records. +Production due:2021-02-11
+x (A) Tony's Ts&Cs changes & Jon's changes - Let Kristian know +Brexit due:2020-10-26
+x (A) Transition +Transition due:2020-06-25
+x (A) Transition Meeting +Transition due:2020-06-05
+x (A) Transition Meeting +Transition due:2020-06-12
+x (A) Transition Meeting +Transition due:2020-06-18
+x (A) Transition Meeting Tony +Transition due:2020-05-19
+x (A) Transition Testing Meeting +Transition due:2020-06-25
+x (A) Transition fix to removing headers when lines failed @Extra +Transition due:2021-02-02
+x (A) Transition issues @Extra +Transition due:2020-10-29
+x (A) Transition meeting +Transition due:2020-05-05
+x (A) Transition meeting +Transition due:2020-05-15
+x (A) Transition meeting +Transition due:2020-06-02
+x (A) Transition meeting +Transition due:2020-06-09
+x (A) Transition meeting +Transition due:2020-06-22
+x (A) Transition meeting +Transition due:2020-06-23
+x (A) Transition meeting +Transition due:2020-07-02
+x (A) Transition meeting +Transition due:2020-07-03
+x (A) Transition meeting Tony +Transition due:2020-05-22
+x (A) Transition meeting with Dom +Transition due:2020-05-07
+x (A) Transition meeting with Tony +Transition due:2020-05-29
+x (A) Transition testing rework (Apps-302) - Need to chat to Marc - +Transition due:2021-02-03
+x (A) Turn off Int04 & Report +Int04 @08:00 due:2020-12-24
+x (A) Tweak to re-apply sales order - peer review due:2020-09-02
+x (A) Update of Dev-C05 +D365 due:2020-11-16
+x (A) Work out which error messages are required for transition +Transition due:2020-09-10
+x (A) orderLineValue data +DataWarehouse due:2021-01-14
+x (A) peer review for Tony @Extra due:2020-12-08
+x (A) peer reviews for GT +Star due:2020-12-16
+x (A) re-watch video training re deployment due:2020-11-20
+x (B) AD File investigation +MES due:2020-10-02
+x (B) Ant - email chase up +Transition due:2020-06-25
+x (B) Apps-273 +Transition due:2021-01-05
+x (B) Assist Tony with moving the MES DBs around +MES due:2021-01-14
+x (B) BA-1375 New extract for labour and material +Production due:2020-05-06
+x (B) BA-1462 Change to customer labels - peer review comments - +Production due:2020-12-23
+x (B) Book Holidays +Personal due:2020-07-03
+x (B) Change PopulateOrderLineValue.p to pick up date from Ord_Detail_Prod +DataWarehouse due:2021-01-13
+x (B) Check MES running ok +MES due:2020-10-14
+x (B) Create Apps ticket for changes to hashing function +Int04 due:2020-12-10
+x (B) Estimates for MES changes +MES due:2020-11-26
+x (B) Extend values on production report +Star due:2020-06-03
+x (B) Leo mail +Star due:2021-01-08
+x (B) MES - special feature @Extra +MES due:2020-10-29
+x (B) MES Meeting +MES due:2020-06-26
+x (B) MES Meeting +MES due:2020-11-24
+x (B) MES discussion with Tony re outstanding items +MES due:2021-01-04
+x (B) MES issue +MES due:2020-09-30
+x (B) MES issue, deleted Boards, exclude panels, strips +MES due:2020-11-18
+x (B) MES issues +MES due:2020-09-23
+x (B) MES meeting +MES due:2020-06-29
+x (B) MES release helping Tony +MES due:2020-11-25
+x (B) MES testing +MES due:2020-09-25
+x (B) Mail Ant +Transition due:2020-06-30
+x (B) Meeting with Ben +MES due:2020-10-02
+x (B) Monitor MES and fix any bugs - Can of worms with email on progress server +MES due:2020-09-24
+x (B) Move DataWarehouse to Production - **Add in Account code and del address** - +DataWarehouse due:2020-12-18
+x (B) Peer review +MES due:2020-05-28
+x (B) Peer review for Star-3364 TJ due:2020-11-20
+x (B) Push DB changes to the DB +Star due:2020-05-27
+x (B) Release CoS changes for Oli +Star due:2020-12-10
+x (B) Release production cost report changes +Star due:2020-06-04
+x (B) Run new version of PopulateOrderLineValue.p in Production +DataWarehouse due:2021-01-13
+x (B) SDP 32911 -> BA-1455 @extra +MES due:2020-10-05
+x (B) SDP 35054 BOM Recalc +Star due:2020-12-24
+x (B) SDP 35411 MES error due:2021-01-15
+x (B) Script changes - Move to new directory +MES due:2021-01-08
+x (B) Script changes - Obfuscate the password +MES due:2021-01-08
+x (B) Star dev work - field for Vic +Star due:2020-05-29
+x (B) Star dev work Star-3208 +Star due:2020-06-02
+x (B) Star-3187 development work +Star note:Star-3187-Note-20200518-163633.md due:2020-05-25
+x (B) Star-3202 New table and sequence +Star due:2020-05-25
+x (B) Star-3367 +Star due:2020-11-26
+x (B) Star-3383 New field on BOM Board due:2020-12-03
+x (B) Star-3398 Allow for Sub Assemblies on Misc Items +Star due:2021-01-18
+x (B) Tony Copy DB, ended up backing up and restoring +MES due:2021-01-08
+x (B) Transition meeting +Transition due:2020-06-30
+x (B) peer review for Tony
+x (B) peer review for Tony +MES due:2020-11-10
+x (C) Add Star job for adding supplier codes to fabric extract Star-3255 +DataMigration due:2020-07-03
+x (C) Catch up +OtherMeetings due:2020-06-30
+x (C) Catch up with Mark +Meeting due:2020-05-26
+x (C) Check MES still running +MES due:2020-12-24
+x (C) Create SDP ticket - for DXC - +Int04 due:2020-12-15
+x (C) Deploy recent changes to DataWarehouse SSIS packages on SenMESProdSQLServer +DataWarehouse due:2021-01-13
+x (C) Finish off Star-3212 +Star due:2020-06-04
+x (C) ITSD-32822 MDS write up KB article and add to current TechOps documentation +Finance due:2020-05-25
+x (C) Monitor DataWarehouse in Production +DataWarehouse due:2020-12-24
+x (C) Release Cost Of Sales +Finance due:2020-05-12
+x (C) Star-3212 +star due:2020-06-03
+x (C) Star-3239 +Transition due:2020-07-03
+x (D) Apps-190 emailing from MES +MES due:2020-06-08
+x (D) Apps-271 +DataWarehouse due:2021-01-04
+x (D) Apps-272 +DataWarehouse due:2021-01-04
+x (D) BA-1354 +Star due:2020-05-08
+x (D) BA-1375 +Star due:2020-05-08
+x (D) BA-1449 PO invoices +Star due:2020-10-30
+x (D) BA-1463 Issue with delivery charges +BA due:2020-10-26
+x (D) Ben's issue ITSD-33276 +Production due:2020-06-16
+x (D) Ben's request ITSD-33908 +ITSDs due:2020-07-23
+x (D) Check data population for orderLineValue +DataWarehouse due:2021-01-12
+x (D) Check in \ Get Latest on the changes +DataWarehouse due:2021-01-13 
+x (D) Clone BA-1359 to a solution design ticket (BA-1375) +Production due:2020-04-30
+x (D) Couple of SDP tickets +SDP due:2021-02-04
+x (D) Crete BA job for 31876 +Star due:2020-08-19
+x (D) DW Demo to Mark +DataWarehouse due:2020-06-26
+x (D) Dom's report +DataWarehouse due:2021-01-25 
+x (D) ITSD from Ben +MES due:2020-05-29
+x (D) ITSD-33908 waiting for Ben +ITSD due:2020-07-20
+x (D) Incidents SDP review +Incidents due:2020-08-28
+x (D) Inform Dom - Send new spreadsheet - +DataWarehouse due:2021-01-04
+x (D) Jon Miller re ADM2 +Star due:2020-05-26
+x (D) Josh email re ITSD-30709 +ITSD due:2020-05-25
+x (D) Peer Review for Jon +SDP due:2021-01-08
+x (D) Peer review for Marc on star-3112 +star due:2020-06-02
+x (D) Pluralsight +PersonalDevelopment due:2020-06-04
+x (D) Powershell script for UAT system +MES due:2021-01-14
+x (D) Production Status Report +Production due:2020-07-13
+x (D) Release Cost of Sales report +Finance due:2020-05-04
+x (D) Resolve SDP ticket for Ben 34686 +Star due:2020-12-15
+x (D) SDP 33157 Outstanding Orders Total Value Query -> Vic +SDP due:2020-10-13
+x (D) SDP 35662 BA-1524 - Coded, needs testing +Star due:2021-02-10
+x (D) SDP tickets - creating BA tickets +Star due:2021-01-12
+x (D) SDP-32448 Dom's report request - Create BA - +Star due:2020-09-16
+x (D) SDP-32474 - Shortages +SDP due:2020-09-22
+x (D) Scanning Error +Star due:2020-06-12
+x (D) Script for Demo +DataWarehouse due:2020-06-18
+x (D) Slides for demo +DataWarehouse due:2020-07-06
+x (D) Star-3177 +Transition due:2020-05-08
+x (D) Star-3247 Test in UAT (point UAT at dev!) due:2020-07-21
+x (D) Star-3333 DDP orders report - ready for peer review - +Star due:2020-10-23
+x (D) Tickets for DataWarehouse due:2020-07-20
+x (D) Tidy up of SDP +Incidents due:2020-09-04
+x (D) Write merge procedure for productionStatus table in SenDataWarehouse +DataWarehouse due:2020-06-15
+x (E) Additional fields for +productionStatus due:2020-11-24
+x (E) Amy Mazey +DirectRequest @extras due:2020-07-23
+x (E) Apps-215 +DataWarehouse due:2020-07-23
+x (E) Apps-216 Coding +DataWarehouse due:2020-09-10
+x (E) Apps-216 SQL widths +DataWarehouse due:2020-09-11
+x (E) Apps-216 Testing +DataWarehouse due:2020-09-14
+x (E) Apps-217 - stored procedures - ready for peer review - +DataWarehouse due:2020-09-23
+x (E) Apps-218 +DataWarehouse due:2020-10-05
+x (E) Apps-253 - Add product_config_header to SSIS for DataWarehouse - ready for peer review - +DataWarehouse due:2020-09-23
+x (E) Apps-253 - Add product_config_header to extract - Done - due:2020-09-22
+x (E) Apps-257 Create stored procedure for mergeProductConfigHeader +DataWarehouse 
+x (E) Book 7th July off +Holidays due:2020-06-22
+x (E) Catch up +Meeting due:2020-06-03
+x (E) Catch up meeting +Catchup due:2020-11-17
+x (E) Catchup +Catchup due:2020-07-09
+x (E) Catchup +OtherMeetings due:2020-07-16
+x (E) Catchup due:2020-09-22
+x (E) Check DataWarehouse runs +DataWarehouse due:2020-11-20
+x (E) Close SDP-32638 +SDP due:2020-10-27
+x (E) Cost of Sales -Found issue, fixed, need to test- +ITSD due:2020-09-02
+x (E) Create BA for 33961 - BA-1478  +Star due:2020-11-16
+x (E) Create tickets for new table in Star 3296 & 3297 +DataWarehouse due:2020-09-10
+x (E) Created Apps ticket for GT to work his magic.
+x (E) Data warehouse moved port for UAT due:2020-11-19
+x (E) Demo to Dave and Dom +DataWarehouse due:2020-07-14
+x (E) Dom's Report +productionStatus due:2020-12-07
+x (E) Dom's new 70's areas report +Star due:2020-08-24
+x (E) Dom's report +ProductionStatus due:2020-11-16
+x (E) Dom's report +Star due:2020-09-14
+x (E) Dom's report +productionStatus due:2020-10-05
+x (E) Dom's report +productionStatus due:2020-10-26
+x (E) Dom's report +productionStatus due:2020-11-02
+x (E) Dom's report +productionStatus due:2020-11-23
+x (E) Dom's report +productionStatus due:2020-11-30
+x (E) Error in SenDataWarehouseUAT 2020/10/29 11:12:58 +DataWarehouse due:2020-10-30
+x (E) Finance Jobs +Star - Testing - due:2020-11-10
+x (E) Get a peer review for Apps-217 +DataWarehouse due:2020-09-24
+x (E) Get a peer review for Apps-253 +DataWarehouse due:2020-09-24
+x (E) Give Caitlan access to new function +Star due:2020-11-24
+x (E) ITSD-33856 BA-1421 created +ITSD due:2020-07-13
+x (E) ITSD-33867 Page break issue @Extras due:2020-07-14
+x (E) Line Value - Need to Run +DataWarehouse due:2021-01-11
+x (E) Mail MA re COS +Incidents due:2020-08-28
+x (E) Meeting with Caitlan +Star due:2020-11-04 
+x (E) Meeting with Caitlan +Star due:2020-11-16
+x (E) Meeting with Dom & MN +DataWarehouse due:2020-10-27
+x (E) Meeting with Dom re DataWarehouse +DataWarehouse due:2020-10-30
+x (E) Move Finance jobs to UAT +Star due:2020-11-13
+x (E) Move new function to UAT +DataWarehouse due:2020-11-02
+x (E) ODBC 'not working' after DB update @Gareth +DataWarehouse due:2020-09-07
+x (E) ODBC +DataWarehouse due:2020-09-25
+x (E) Oli's request BA-1483 Star-3376 +Star due:2020-11-30
+x (E) Peer review Jon x2 +DM @Extra due:2020-10-23
+x (E) Peer review Tony +MES @Extra due:2020-10-23
+x (E) Peer review for Gareth +Star due:2020-12-07
+x (E) Peer review for Gareth due:2021-01-11
+x (E) Peer review for Vic +Star due:2020-11-23
+x (E) Peer review work finance mods +Star due:2020-11-12
+x (E) Pluralsight +PersonalDevelopment due:2020-07-23
+x (E) Production Status Report +Star due:2020-09-21
+x (E) Production Status report +Star due:2020-09-07
+x (E) Rebuild Dev DB for Transition +Transition due:2020-09-23
+x (E) Release COS @Extra +COS due:2020-09-09
+x (E) Release address changes to UAT due:2020-09-22
+x (E) Report for Dom +productionStatus due:2020-10-12
+x (E) SDP 35239 - Auditing on Labour rates +SDP due:2021-01-04
+x (E) SDP 3524 +Star due:2021-01-04
+x (E) SDP meeting +ITSD due:2020-09-03
+x (E) SDP ticket for Amy Mazey +Star due:2021-01-08
+x (E) SDP ticket for Teal +Star due:2020-11-12
+x (E) SDP ticket for Tony etc +SDP due:2021-01-04
+x (E) SDP ticket for Vic +Star due:2020-12-08
+x (E) SDP ticket re items not showing in prod enq @extra due:2020-10-28
+x (E) SDP-31459 AD File Name - BA-1459 - +MES due:2020-10-12
+x (E) SDP-31460 Special Features - BA-1458 - +MES due:2020-10-12
+x (E) SDP-32551 +MES due:2020-09-22
+x (E) SDP-32925 Colour missing from Laminate Panel Route Card -> BA-1456 +Star due:2020-10-06
+x (E) SDP-33232 - BA job required - BA-1464 - +SDP due:2020-10-16
+x (E) SDP-33527 - system class - wasn't int4 - +SDP due:2020-10-30
+x (E) SDP-35021 fabric ordering with Tony +SDP due:2021-01-07
+x (E) Set up a quick run through with Caitlan for Finance changes +Star due:2020-11-13
+x (E) Space considerations for Production version of SenDataWarehouse +DataWarehouse due:2020-10-27
+x (E) Star-3296 +DataWarehouse due:2020-09-14
+x (E) Star-3297 - ready for peer review -  +DataWarehouse due:2020-09-16
+x (E) Star-3302 product_config_header  +DataWarehouse due:2020-09-16
+x (E) Star-3305 Testing +DataWarehouse due:2020-09-21
+x (E) Star-3343 +Star due:2020-11-06
+x (E) Star-3345 +Star - Add message when supplier - why is it so slow? - due:2020-11-10
+x (E) Star-3345 +Star - Extended GRN Value due:2020-11-09
+x (E) Star-3345 +Star - fix POInvoiced.p p-getData for GRN input due:2020-11-05
+x (E) Star-3346 +Star - Add Validation to report dates - due:2020-11-10
+x (E) Teal (Oli) request for new report BA-1479 created +Star due:2020-11-23
+x (E) Testing SenDataWarehouse on SenMESTestSQLAppserver +DataWarehouse due:2020-10-29
+x (E) Try ALTER TABLE <table name> ALTER COLUMN <column name> SET PRO_SQL_WIDTH  <value>; in Dev +DataWarehouse due:2020-09-09
+x (E) Two new tickets transferred to BA +SDP due:2020-11-30
+x (E) US B2B pricing - How are selling prices set up? - +Star due:2020-09-30
+x (E) Update confluence for int4 with Jon's fix for the issue yesterday +Int04 due:2020-11-20
+x (E) Updates to VS due:2020-12-04
+x (E) peer review +Brexit @extra due:2020-09-14
+x (E) peer review +Transition due:2020-09-22
+x (E) peer review for GT BA-1473 due:2020-11-05
+x (E) peer review for Tony +Star @extra due:2020-11-26
+x (E) peer review for Vic & Tony
+x (E) peer review for Vic +Star @extra due:2020-11-26
+x (E) peer review for Vic +Star due:2021-01-11
+x (E) peer review with Jon on the finance work.
+x (E) peer reviews @extra due:2020-09-21
+x (F) ITSD-33739 +ITSD @Extras due:2020-07-10
+x (F) ITSD-33873 +ITSD due:2020-07-10
+x (F) Talk to GT +Star due:2020-07-13
+x (Z) Early lunch @AOB +Personal due:2020-12-15
+x (Z) UAT tickets ADO-5054 - No change - +Star due:2021-01-18
+x Apps-300 Need a method to zip and archive a directory, coded, needs implementing +MES due:2021-02-02
+x Cost of Sales Report
+x Order analysis Report
