@@ -1,6 +1,7 @@
 *.code-workspace
 *.pdf
 .DS_Store
+a.out
 arguments
 array
 break
@@ -17,12 +18,15 @@ funct
 globalvar
 hw
 if
+info.plist
+input
 myprog
 pf
 pointer
 pointerFunct
 scanf
 setString
+sscanf
 strcmo
 String
 stringLib
