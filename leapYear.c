@@ -7,7 +7,7 @@ bool leapYear(int iYear);
 
 int main(int argc, char **argv){
     int iYr = 0;
-    char* verb = "was";
+    char* verb = "";
 
     time_t s, val = 1;
     struct tm* current_time;
@@ -22,28 +22,17 @@ int main(int argc, char **argv){
         iYr = (current_time->tm_year + 1900);
     }
 
-    if (iYr == current_time->tm_year + 1900){
-        verb = "is";
-    }
-
-    bool ly = leapYear(iYr);
-    if (ly){
-        printf("The year %d %s a leap year\n", iYr, verb);
+    if (leapYear(iYr)){
+        verb = "is a";
     } else {
-        printf("The year %d %s NOT a leap year\n", iYr, verb);
+        verb = "is NOT a";
     }
+        
+    printf("The year %d %s leap year\n", iYr, verb);
+
     return 0;
 }
 
 bool leapYear(int iYear){    
-    if (iYear % 400 == 0){
-        return true;
-    }
-    if (iYear % 100 == 0){
-        return false;
-    }
-    if (iYear % 4 == 0){
-        return true;
-    }
-    return false;
+    return (((iYear) % 4 == 0 && (iYear % 100 != 0)) || (iYear % 400 == 0));
 }
