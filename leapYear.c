@@ -9,16 +9,15 @@ int main(int argc, char **argv){
     int iYr = 0;
     char* verb = "";
 
-    time_t s, val = 1;
-    struct tm* current_time;
-    s = time(NULL);
-    current_time = localtime(&s);
-
     if (argv[1] != NULL){
         iYr = atoi(argv[1]);
     } 
 
     if (iYr == 0) {
+        time_t s, val = 1;
+        struct tm* current_time;
+        s = time(NULL);
+        current_time = localtime(&s);
         iYr = (current_time->tm_year + 1900);
     }
 
