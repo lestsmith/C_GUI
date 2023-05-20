@@ -38,3 +38,5 @@ while
 bubbleSort
 passArrayToFunction
 leapYear
+dmy
+pallindrome
