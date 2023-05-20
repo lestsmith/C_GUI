@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include <ctype.h>
 
 int main()
@@ -33,8 +33,6 @@ int main()
     strNoSpaces[j] = '\0';
 
     size = strlen(strNoSpaces);
-
-    //printf("%s\n", strNoSpaces);
 
 	for(i = 0; i < size/2 ;i++){
 	 	if(tolower(strNoSpaces[i]) != tolower(strNoSpaces[size - 1 -i])){
