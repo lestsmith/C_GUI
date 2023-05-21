@@ -10,7 +10,7 @@ int main()
     
     current_time = localtime(&s);
 
-    printf("\e[1;1H\e[2J");
+    printf("\e[1;1H\e[2J"); // Clear the screen.
     
     printf("Day of the month = %d\n",current_time->tm_mday);
     printf("Month of this year = %d\n",(current_time->tm_mon + 1));
