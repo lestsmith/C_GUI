@@ -40,3 +40,5 @@ passArrayToFunction
 leapYear
 dmy
 pallindrome
+passByReference
+passByValue
