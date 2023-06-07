@@ -15,7 +15,6 @@ int main(void){
   scanf("%s", letter);
 
   for (i = 0; i < 30; i++){
-    //printf(" %c", letter[0]);
     if (word[i] == letter[0]){
       count++;
     }
