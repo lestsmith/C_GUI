@@ -3,9 +3,10 @@
 int main(void){
 
   char letter[1] = "";
-  char word[30] = "";
+  char word[256] = "";
 
   int count = 0;
+  int countLoop = 0;
   int i = 0;
 
   printf("Enter a word: ");
@@ -14,13 +15,21 @@ int main(void){
   printf("\nEnter a letter: ");
   scanf("%s", letter);
 
-  for (i = 0; i < 30; i++){
-    if (word[i] == letter[0]){
+  char *ptrWord = word;
+
+  while (*ptrWord != 0){
+    if (*ptrWord == letter[0]){
       count++;
     }
+    printf("\n%c", *ptrWord);
+    countLoop++;
+    ptrWord++;
+/*    if (countLoop == 256){
+ *    break;
+ *  }
+ */
   }
-
-  printf("\n%i\n", count);
+  printf("\n%i, %i\n", count, countLoop);
 
   return 0;
 }
