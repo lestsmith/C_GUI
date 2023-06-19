@@ -23,7 +23,7 @@ int main(void){
     }
     printf("\n%c", *ptrWord);
     countLoop++;
-    ptrWord++;
+    ptrWord++; // important to move the loop to the next address
 /*    if (countLoop == 256){
  *    break;
  *  }
