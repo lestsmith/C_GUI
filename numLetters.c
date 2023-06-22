@@ -6,8 +6,6 @@ int main(void){
   char word[256] = "";
 
   int count = 0;
-  int countLoop = 0;
-  int i = 0;
 
   printf("Enter a word: ");
   scanf("%s", word);
@@ -21,15 +19,9 @@ int main(void){
     if (*ptrWord == letter[0]){
       count++;
     }
-    printf("\n%c", *ptrWord);
-    countLoop++;
-    ptrWord++; // important to move the loop to the next address
-/*    if (countLoop == 256){
- *    break;
- *  }
- */
+    ptrWord++; // important; to move the loop to the next address
   }
-  printf("\n%i, %i\n", count, countLoop);
+  printf("\n%i, %i\n", count);
 
   return 0;
 }
