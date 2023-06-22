@@ -45,3 +45,5 @@ passByValue
 numLetters
 pointerArrays
 pointers
+pointerToFunction
+arraysOfPointers
