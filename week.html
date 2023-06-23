@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <title>Calculate Week Number</title>
+    <script>
+        Date.prototype.getWeekNumber = function() {
+  
+            var oneJan = 
+                new Date(this.getFullYear(), 0, 1);
+  
+            // calculating number of days 
+            //in given year before given date
+  
+            var numberOfDays = 
+                Math.floor((this - oneJan) / (24 * 60 * 60 * 1000));
+  
+            // adding 1 since this.getDay()
+            //returns value starting from 0
+  
+            return Math.ceil((this.getDay() + 1 + numberOfDays) / 7);
+  
+        }
+  
+        function printWeekNumber() {
+            var dateInput = 
+                document.getElementById("dateInput").value;
+            var date = new Date(dateInput);
+            var result = date.getWeekNumber();
+            document.getElementById("result").innerHTML = 
+              "Week Numbers is " + result;
+        }
+    </script>
+</head>
+  
+<body>
+  
+    <h1 style="color: green" align="center"> 
+            GeeksforGeeks 
+        </h1>
+  
+    <p align="center"> <b> Enter date :- </b>
+        <input type="date" id="dateInput">
+        <br>
+        <br>
+  
+        <button onclick="printWeekNumber()">
+          Get week number
+      </button>
+    </p>
+  
+    <h3 style="color:green" id="result" align="center"></h3>
+  
+</body>
+  
+</html>
